@@ -68,16 +68,16 @@ experiences:
         time: 2019 - Present
         company: B&R Industrial Automation
         details: |
-            My primary responsibilities was to lead the application team and develop its operations. Additionally, my tasks included:
+            My primary responsibilities were to lead the application team and develop its operations. Additionally, my tasks included:
             - PLC programming and leading automation projects
             - Technical sales
-            - Hosted technial trainings for customers
-            - Delivered online webinars 
+            - Hosting technical training for customer
+            - Delivering online webinars 
       - role: Application Engineer
         time: 2017 - 20119
         company: B&R Industrial Automation
         details: |
-          I began my career at B&R with a 5-month ecamp training in Austria. After that my main task was:
+          I began my career at B&R with a 5-month ecamp training in Austria. After that my main tasks included:
             - PLC programming
             - Hosted technial trainings for customers
             - Technical customer support
@@ -197,16 +197,16 @@ skills:
       - name: OPC UA
         level: 85%
         
-      - name: Industial Networking
+      - name: Industrial Networking
         level: 80%
 
       - name: Mobile automation
-        level: 85%
+        level: 88%
     
       - name: Version control, Agile development and CI/CD 
         level: 60%
 
-      - name: HTML5 and Javascript
+      - name: HTML5 and JavaScript
         level: 30%
 
 footer: >
