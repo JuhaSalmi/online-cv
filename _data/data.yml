@@ -189,16 +189,22 @@ skills:
         level: 98%
 
       - name: Motion control and Drives
-        level: 95%
+        level: 85%
 
       - name: Functional Safety
         level: 85%
 
-      - name: Industial Networking
+      - name: OPC UA
         level: 85%
+        
+      - name: Industial Networking
+        level: 80%
 
       - name: Mobile automation
         level: 85%
+    
+      - name: Version control, Agile development and CI/CD 
+        level: 60%
 
       - name: HTML5 and Javascript
         level: 30%
