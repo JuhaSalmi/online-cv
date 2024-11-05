@@ -91,7 +91,7 @@ experiences:
 education:
     title: Education
     info:
-      - degree: Master of Engineering
+      - degree: Master of Engineering 20/60 ECTS
         university: JAMK University of Applied Sciences
         time: 2023 - Present
         details: |
@@ -99,7 +99,7 @@ education:
             - AI 
             - Cybersecurity
             - Robotics
-      - degree: Bachelor of Engineering
+      - degree: Bachelor of Engineering 240 ECTS
         university: JAMK University of Applied Sciences
         time: 2013 - 2017
         details: |
