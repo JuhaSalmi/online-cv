@@ -68,7 +68,7 @@ experiences:
         time: 2019 - Present
         company: B&R Industrial Automation
         details: |
-            My primary responsibility was to lead the application team and develop its operations. Additionally, my tasks included:
+            My primary responsibilities was to lead the application team and develop its operations. Additionally, my tasks included:
             - PLC programming and leading automation projects
             - Technical sales
             - Hosted technial trainings for customers
@@ -80,7 +80,7 @@ experiences:
           I began my career at B&R with a 5-month ecamp training in Austria. After that my main task was:
             - PLC programming
             - Hosted technial trainings for customers
-            - Tehcnical customer support
+            - Technical customer support
       - role: Automation Designer
         time: 2016 - 2017
         company: Control Express Finland Oy
@@ -91,17 +91,20 @@ experiences:
 education:
     title: Education
     info:
-      - degree: Automation Engineer
+        - degree: Master of Engineering
+            university: JAMK University of Applied Sciences
+            time: 2023 - Present
+            details: |
+              The Automation and Robotics Master's programme at Jamk covers key topics:
+                - AI 
+                - Cybersecurity
+                - Robotics.
+      - degree: Bachelor of Engineering
         university: JAMK University of Applied Sciences
         time: 2013 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          The Automation and Robotics degree provides a comprehensive foundation in automation and electrical engineering, 
+          with a focus on designing control systems, machine vision, and user interfaces.
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
