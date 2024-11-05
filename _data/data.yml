@@ -173,9 +173,9 @@ projects:
 
 publications:
     title: Publications
-    intro: |#
+    intro: 
     papers:
-      - title: Thesis: Development of risk assessment service for industrial control systems 
+      - title: Thesis - Development of risk assessment service for industrial control systems 
         link: "https://urn.fi/URN:NBN:fi:amk-201704114605"
         authors: Juha K. Salmi
         conference: #
