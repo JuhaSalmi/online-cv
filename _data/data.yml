@@ -75,23 +75,19 @@ experiences:
             - Delivered online webinars 
       - role: Application Engineer
         time: 2017 - 20119
-        company: Google, London
+        company: B&R Industrial Automation
         details: |
           I began my career at B&R with a 5-month ecamp training in Austria. After that my main task was:
             - PLC programming
             - Hosted technial trainings for customers
             - Tehcnical customer support
-      - role: UI Developer
-        time: 2012 - 2014
-        company: B&R Industrial Automation
+      - role: Automation Designer
+        time: 2016 - 2017
+        company: Control Express Finland Oy
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Completed a thesis on automation assessments and worked on various projects. Key responsibilities included:
+            - Automation installations
+            - PLC programming (Siemens, B&R)
 education:
     title: Education
     info:
