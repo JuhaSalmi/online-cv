@@ -67,10 +67,10 @@ experiences:
       - role: Application Engineer, Team Leader
         time: 2019 - Present
         company: B&R Industrial Automation
-        details: 
+        details: |
+            My primary responsibility was to lead the application team and develop its operations. Additionally, my tasks included:
             - PLC programming and leading automation projects
-            - Technical sale
-            - Managing the application team, and operational development.
+            - Technical sales
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
