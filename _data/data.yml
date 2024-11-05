@@ -105,17 +105,6 @@ education:
         details: |
           The Automation and Robotics degree provides a comprehensive foundation in automation and electrical engineering, 
           with a focus on designing control systems, machine vision, and user interfaces.
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 #certifications:
 #     title: Certifications
@@ -160,30 +149,12 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The projects I've worked on are under NDA. Here is my only public reference.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: A PLd safety system developed in collaboration with Mantsinen for a material handler.
+        link: "https://new.abb.com/news/fi/detail/81839/nosturiyhteistyo-sujuu-kuin-tanssi"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        
 oss:
     title: OSS Contributions
     intro: >
