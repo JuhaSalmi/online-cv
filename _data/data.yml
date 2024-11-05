@@ -67,8 +67,7 @@ experiences:
       - role: Application Engineer, Team Leader
         time: 2019 - Present
         company: B&R Industrial Automation
-        details:
-        # there can be text
+        details: 
             - PLC programming and leading automation projects
             - Technical sale
             - Managing the application team, and operational development.
