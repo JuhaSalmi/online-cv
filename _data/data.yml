@@ -91,14 +91,14 @@ experiences:
 education:
     title: Education
     info:
-        - degree: Master of Engineering
-            university: JAMK University of Applied Sciences
-            time: 2023 - Present
-            details: |
-              The Automation and Robotics Master's programme at Jamk covers key topics:
-                - AI 
-                - Cybersecurity
-                - Robotics
+      - degree: Master of Engineering
+        university: JAMK University of Applied Sciences
+        time: 2023 - Present
+        details: |
+          The Automation and Robotics Master's programme at Jamk covers key topics:
+            - AI 
+            - Cybersecurity
+            - Robotics
       - degree: Bachelor of Engineering
         university: JAMK University of Applied Sciences
         time: 2013 - 2017
