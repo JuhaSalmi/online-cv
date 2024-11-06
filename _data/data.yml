@@ -74,7 +74,7 @@ experiences:
             - Hosting technical training for customer
             - Delivering online webinars 
       - role: Application Engineer
-        time: 2017 - 20119
+        time: 2017 - 2019
         company: B&R Industrial Automation
         details: |
           I began my career at B&R with a 5-month ecamp training in Austria. After that my main tasks included:
@@ -95,7 +95,7 @@ education:
         university: JAMK University of Applied Sciences
         time: 2023 - Present
         details: |
-          The Automation and Robotics Master's programme at Jamk covers key topics:
+          The Automation and Robotics Master's programme at JAMK covers key topics:
             - AI 
             - Cybersecurity
             - Robotics
@@ -201,7 +201,7 @@ skills:
         level: 80%
 
       - name: Mobile automation
-        level: 88%
+        level: 70%
     
       - name: Version control, Agile development and CI/CD 
         level: 60%
